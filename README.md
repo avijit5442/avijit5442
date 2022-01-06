@@ -8,7 +8,7 @@ I'm
 a front-end developer ( HTML5, CSS3,Bootstrap Javascript)
 
 
-![Visitor Count](https://profile-counter.glitch.me/avijit5442/count.svg)
+![visiters Count](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
