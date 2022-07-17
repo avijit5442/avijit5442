@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Avijit-yellow)](https://stackoverflow.com/users/17712988/avijit-behera)
 
 I'm
-a front-end developer ( HTML5, CSS3,Bootstrap Javascript)
+a front-end developer ( HTML5, CSS3,Bootstrap Javascript,React)
 
 ![Visitor Count](https://profile-counter.glitch.me/avijit5442/count.svg)
 
