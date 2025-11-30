@@ -7,7 +7,7 @@
 I'm
 a front-end developer ( HTML5, CSS3,Bootstrap Javascript,React)
 
-![Visitor Count]([https://profile-counter.glitch.me/avijit5442/count.svg](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Favijit5442&countColor=%23263759))
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Favijit5442&countColor=%23263759)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
