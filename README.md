@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Avijit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avijit-behera-1b8421209/)](https://www.linkedin.com/in/avijit-behera-1b8421209/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Avijit-green)](https://avijit5442.github.io/profile.githiub.io/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Avijit-yellow)](https://stackoverflow.com/users/17712988/avijit-behera)
